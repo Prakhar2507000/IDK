@@ -1,0 +1,23 @@
+.copy_rigt_footer 
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+#camera
+{
+height: 500px;
+width: 400px;
+}
+
+img
+{
+    height: 380px;
+    width: 400px;
+}
